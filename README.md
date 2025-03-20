@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 ### 🌐 **Connect with Me**  
 <a href="https://www.linkedin.com/in/ranydwicahyaningtyas"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>  
 <a href="https://www.instagram.com/ranydwic/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>  
-<a href="https://rpubs.com/ranydc"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRURs0P4CuNg29XqI_Twou_sQdSizSAXjpEPQ&s/></a>
+<a href="https://rpubs.com/ranydc"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRURs0P4CuNg29XqI_Twou_sQdSizSAXjpEPQ&s"/></a>
