@@ -1,8 +1,9 @@
 ### Hi, I'm Rany 👋
 
-- 🔭 Statistics graduate with a strong foundation in computer science and a passion in education
-- 🌱 Currently diving deep into **AI for Healthcare and Biomedicine**, exploring cutting-edge solutions for real-world challenges.
-- ⚡ Programming Languages: Python, R, SQL.
+- 🔭 **Statistics graduate with a strong foundation in computer science and a passion in education**
+- 🔬 **Expertise:** Python | R | SQL | Tableau | PowerBI | Machine Learning | AI & Automation  
+- 📊 **Focus Areas:** Data Science Training | Curriculum Development | AI Adoption | Statistical Modeling  
+- 🎓 **Teaching & Training:** Instructor for **corporate training and workshops** on advanced analytics & AI
 - 📫 Feel free to reach out: rnydwic@gmail,com
 
 <!--
